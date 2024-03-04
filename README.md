@@ -1,3 +1,2 @@
 # cr7
-III
-o
+To learn GitHub course hello there
